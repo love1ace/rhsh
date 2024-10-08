@@ -1,0 +1,40 @@
+{
+  "name": "rhsh",
+  "version": "1.0.0",
+  "description": "random hash generator in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/rhsh.git"
+  },
+  "keywords": [
+    "rhsh",
+    "random",
+    "hash",
+    "crypto",
+    "generator",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/rhsh/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/rhsh#readme",
+  "bin": {
+    "rhsh": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
